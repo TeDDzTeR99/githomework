@@ -9,3 +9,4 @@
 - 30.11.2025 Sunday
 - 01.12.2025 Monday
 - 02.12.2025 Tuesday
+- 03.12.2025 Wednesday
