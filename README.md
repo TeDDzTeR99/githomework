@@ -17,3 +17,7 @@
 - 08.12.2025 Monday
 - 09.12.2025 Tuesday
 - 10.12.2025 Wednesday
+- 11.12.2025 Thursday
+- 12.12.2025 Friday
+- 13.12.2025 Saturday
+- 14.12.2025 Sunday
